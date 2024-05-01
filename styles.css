@@ -1,0 +1,11 @@
+main {
+  height: 105vh;
+  font-size: 2.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -3rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #2a3447;
+  color: aliceblue;
+}
